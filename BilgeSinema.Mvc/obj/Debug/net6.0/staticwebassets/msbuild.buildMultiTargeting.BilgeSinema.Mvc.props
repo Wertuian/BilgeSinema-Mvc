@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BilgeSinema.Mvc.props" />
+</Project>
